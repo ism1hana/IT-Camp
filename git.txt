@@ -1,0 +1,2 @@
+GIT config - -global username "ism1hana"
+GIT config - -global user.email "hasanovicismihana9@gmail.com"
